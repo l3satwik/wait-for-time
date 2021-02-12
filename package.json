@@ -1,0 +1,17 @@
+{
+  "name": "wait-for-time",
+  "version": "1.0.0",
+  "description": "Delay with a promise.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [],
+  "author": "https://github.com/l3satwik",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.27"
+  }
+}
