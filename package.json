@@ -8,7 +8,7 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
-  "keywords": [],
+  "keywords": ["wait", "wait for", "delay", "delay for", "promise"],
   "author": "https://github.com/l3satwik",
   "repository": {
     "type": "git",
