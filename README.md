@@ -1,12 +1,16 @@
 # wait-for-time
 Delay with a promise.
 
+Install:
+```yarn add wait-for-time```
+
+Use:
 ```javascript
-import wait from "wait-for-time";
+import waitFor from "wait-for-time";
 
 async function someFunc() {
   console.log("waiting now...");
-  await wait(5000); // time in milliseconds
+  await waitFor(5000); // time in milliseconds
   console.log("wait complete");
 }
 ```
