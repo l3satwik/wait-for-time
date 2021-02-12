@@ -12,8 +12,12 @@
   "author": "https://github.com/l3satwik",
   "repository": {
     "type": "git",
-    "url": "https://github.com/l3satwik/wait-for-time.git"
+    "url": "git+https://github.com/l3satwik/wait-for-time.git"
   },
+  "bugs": {
+    "url": "https://github.com/l3satwik/wait-for-time/issues"
+  },
+  "homepage": "https://github.com/l3satwik/wait-for-time#readme",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^14.14.27"
