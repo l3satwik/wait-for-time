@@ -1,5 +1,5 @@
 # wait-for-time
-Delay with a promise.
+A npm utility package to delay execution with a promise.
 
 Install:
 ```yarn add wait-for-time```
